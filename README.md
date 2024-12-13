@@ -58,17 +58,17 @@ The project involves data cleansing, database storage, advanced analysis, and in
    ```
 
 2. **Run the Data Processing Script**:
-   - Open the `data_processing.py` script and execute it to:
+   - Open the `ballon dor calculator.ipynb` script and execute it to:
      - Clean the data.
      - Calculate player scores and ranks.
      - Export the cleaned dataset (`ranked_table.csv`).
 
 3. **Load the Data into a Database**:
-   - Use `store_to_mysql.py` or `store_to_mongodb.py` scripts to upload the data to your chosen database.
+   - Create MongoDB or SQL scripts to upload the data to your chosen database.
 
 4. **Visualize the Data**:
    - Import `ranked_table.csv` into Tableau.
-   - Use the Tableau workbook (`visualizations.twbx`) to explore the dashboards.
+   - Use the Tableau workbook (`Ballon Dor Tableau.twbx`) to explore the dashboards.
 
 ---
 
